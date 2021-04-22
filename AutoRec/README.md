@@ -26,7 +26,7 @@ def getDecoder(numOfInput, numOfHidden1, numOfHidden2):
 
 The loss of tarining and validation dataset during training.
 
-![Losses](./images/Losses.JPG)
+![Losses](./images/TrainValLosses.JPG)
 
 # Requirements
 Python 3.6+
