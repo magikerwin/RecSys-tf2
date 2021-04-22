@@ -1,8 +1,7 @@
 # AutoRec-tf2
-It's an official implementation of AutoRec in TensorFlow 2.0+.
+It's an unofficial implementation of AutoRec in TensorFlow 2.0+.
 
-Original Paper: ["AutoRec: Autoencoders Meet Collaborative Filtering
-"](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf)
+Original Paper: ["AutoRec: Autoencoders Meet Collaborative Filtering, 2015"](http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf)
 
 # Introduction
 The original paper uses only one hidden layer in both the encoder and decoder.
