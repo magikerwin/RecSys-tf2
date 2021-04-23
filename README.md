@@ -4,5 +4,7 @@ This repository consists of some classic algorithms of the recommender system, w
 ### ToDo List
 - [X] [AutoRec](https://github.com/magikerwin1993/RecSys-tf2/tree/main/AutoRec)
 - [ ] PNN
+- [ ] [Wide & Deep](https://github.com/magikerwin1993/RecSys-tf2/tree/main/Wide_and_Deep)
+- [ ] Deep & Cross
 - [ ] DIN
 - [ ] DEIN
