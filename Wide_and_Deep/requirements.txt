@@ -1,0 +1,5 @@
+tensorflow>=2.0
+wget
+numpy
+pandas
+matplotlib
