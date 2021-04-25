@@ -1,5 +1,5 @@
+tensorflow>=2.0
 wget
 numpy
 pandas
 matplotlib
-tensorflow>=2.2.0
